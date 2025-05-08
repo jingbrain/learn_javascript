@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "code-runner.executorMap": {
+      "javascript": "node"
+    },
+    "code-runner.runInTerminal": true
+  }
+  
